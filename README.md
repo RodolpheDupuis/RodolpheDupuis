@@ -8,7 +8,7 @@ I'm the CTO of [Fiverse](https://fiverse.com), an AI-powered personal finance ap
 
 ### 🔧 What I work with
 
-`Solidity` `EVM` `DeFi Protocols` `AMMs` `ERC-4626 Vaults` `Smart Contract Auditing`  
+`Solidity` `EVM` `DeFi Protocols` `AMMs` `ERC-4626 Vaults` `Smart Contract Auditing`
 `React` `Vue` `NestJS` `TypeScript` `PostgreSQL` `AI Agents`
 
 ### 🔨 What I'm building
@@ -22,10 +22,18 @@ I'm the CTO of [Fiverse](https://fiverse.com), an AI-powered personal finance ap
 
 I help Web3 teams design, build, and audit smart contracts. If you're shipping a protocol and need a second pair of eyes or hands on deck:
 
-🌐 [rodolphedupuis.com]([https://rodolphedupuis.com](https://cal.com/rodolphe-dupuis/coffee-time))
-☕ [Grab a coffee (book a call)](https://cal.com/rodolphedupuis)
-🐦 [@raudupuis](https://x.com/raudupuis)
-💼 [LinkedIn](https://linkedin.com/in/rodolphedupuis)
+🌐 [![Portfolio](https://img.shields.io/badge/rodolphedupuis.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://rodolphedupuis.com)
+☕ [![Grab a coffee (book a call)](https://img.shields.io/badge/Grab_a_Coffee-FF6B35?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/rodolphe-dupuis/coffee-time)
+🐦 [![X](https://img.shields.io/badge/@raudupuis-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/raudupuis)
+💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodolph-edupuis)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RodolpheDupuis/RodolpheDupuis/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/RodolpheDupuis/RodolpheDupuis/blob/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://github.com/RodolpheDupuis/RodolpheDupuis/blob/output/github-snake.svg" />
+</picture>
 
 ---
 
