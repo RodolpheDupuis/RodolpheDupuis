@@ -22,10 +22,10 @@ I'm the CTO of [Fiverse](https://fiverse.com), an AI-powered personal finance ap
 
 I help Web3 teams design, build, and audit smart contracts. If you're shipping a protocol and need a second pair of eyes or hands on deck:
 
-🌐 [![Portfolio](https://img.shields.io/badge/rodolphedupuis.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://rodolphedupuis.com)
-☕ [![Grab a coffee (book a call)](https://img.shields.io/badge/Grab_a_Coffee-FF6B35?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/rodolphe-dupuis/coffee-time)
-🐦 [![X](https://img.shields.io/badge/@raudupuis-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/raudupuis)
-💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodolph-edupuis)
+[![Portfolio](https://img.shields.io/badge/rodolphedupuis.com-1A1A2E?style=for-the-badge&logo=safari&logoColor=00D4AA)](https://rodolphedupuis.com)
+[![Grab a coffee (book a call)](https://img.shields.io/badge/Grab_a_Coffee-FF6B35?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/rodolphe-dupuis/coffee-time)
+[![X](https://img.shields.io/badge/@raudupuis-1A1A2E?style=for-the-badge&logo=x&logoColor=white)](https://x.com/raudupuis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A2E?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/rodolph-edupuis)
 
 ---
 
