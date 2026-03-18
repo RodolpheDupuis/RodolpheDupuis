@@ -30,9 +30,9 @@ I help Web3 teams design, build, and audit smart contracts. If you're shipping a
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RodolpheDupuis/RodolpheDupuis/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/RodolpheDupuis/RodolpheDupuis/blob/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://github.com/RodolpheDupuis/RodolpheDupuis/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodolpheDupuis/RodolpheDupuis/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodolpheDupuis/RodolpheDupuis/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/RodolpheDupuis/RodolpheDupuis/output/github-snake.svg" />
 </picture>
 
 ---
