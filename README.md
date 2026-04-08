@@ -2,7 +2,7 @@
 
 **Fullstack Blockchain Engineer & Co-founder** building at the intersection of DeFi and fintech.
 
-I'm the CTO of [Fiverse](https://fiverse.com), an AI-powered personal finance app, and I take on freelance work helping Web3 startups ship secure, production-grade smart contracts and dApps.
+I'm the CTO of [Fiverse](https://fiverse.io), an AI-powered personal finance app, and I take on freelance work helping Web3 startups ship secure, production-grade smart contracts and dApps.
 
 ---
 
